@@ -1,0 +1,5 @@
+backend:
+  name: github
+  repo: mysticaldetours/mysticaldetours
+
+media_folder: "images/uploads"
